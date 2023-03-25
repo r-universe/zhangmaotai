@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CNPS"]
+	path = CNPS
+	url = https://github.com/cran/CNPS
+	shallow = true
+	registered = true
